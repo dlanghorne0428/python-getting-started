@@ -1,7 +1,6 @@
 django
 gunicorn
 django-heroku
-heroku-redis
 celery
 celery-progress
 requests
