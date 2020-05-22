@@ -4,3 +4,4 @@ django-heroku
 celery
 celery-progress
 requests
+whitenoise
